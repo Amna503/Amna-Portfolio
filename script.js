@@ -1,4 +1,15 @@
 // ========================================
+// Loading Skeleton
+// ========================================
+window.addEventListener('load', () => {
+    const skeleton = document.getElementById('skeletonLoader');
+    if (skeleton) {
+        setTimeout(() => skeleton.classList.add('hidden'), 300);
+        setTimeout(() => skeleton.remove(), 700);
+    }
+});
+
+// ========================================
 // Navigation
 // ========================================
 const navToggle = document.querySelector('.nav-toggle');
@@ -139,6 +150,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         '.project-card',
         '.timeline-item',
         '.seo-skill-card',
+        '.testimonial-card',
         '.about-details .detail-item'
     ];
 
@@ -387,7 +399,8 @@ document.addEventListener('click', (e) => {
         '.nav-toggle', '.social-link', '.project-btn',
         '.skill-tag', '.tool-tag', '.btn',
         '.project-card',
-        '.skill-category', '.seo-skill-card'
+        '.skill-category', '.seo-skill-card',
+        '.testimonial-card'
     ].join(', ');
 
     document.addEventListener('mouseover', (e) => {
