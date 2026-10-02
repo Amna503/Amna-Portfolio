@@ -5,7 +5,7 @@
 **Frontend Developer | AI Enthusiast | SEO Specialist**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Site-Visit%20Portfolio-6366f1?style=for-the-badge)](https://amna-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Amna%20Kaleem-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amna-kaleem)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Amna%20Kaleem-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amna-kaleem-34b28a385/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Amna503-181717?style=for-the-badge&logo=github)](https://github.com/Amna503)
 [![Email](https://img.shields.io/bash/Email-amnakaleem43490@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:amnakaleem43490@gmail.com)
 
